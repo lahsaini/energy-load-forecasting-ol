@@ -70,7 +70,7 @@ energy-load-forecasting/
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/energy-load-forecasting.git
+git clone https://github.com/lahsaini/energy-load-forecasting-ol.git
 cd energy-load-forecasting
 
 # Install dependencies
